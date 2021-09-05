@@ -1,16 +1,12 @@
-# borderify
+# Focus
 
-**This add-on injects JavaScript into web pages. The `addons.mozilla.org` domain disallows this operation, so this add-on will not work properly when it's run on pages in the `addons.mozilla.org` domain.**
+**Focuses search field on any site with pressing the slash key**
 
 ## What it does
 
-This extension just includes:
+Focus search field on slash key press (/)
 
-* a content script, "borderify.js", that is injected into any pages
-under "mozilla.org/" or any of its subdomains
+### i NeEd XpI fILe
 
-The content script draws a border around the document.body.
+https://github.com/naveen17797/focus/blob/master/bin/focus-1.0-fx.xpi
 
-## What it shows
-
-* how to inject content scripts declaratively using manifest.json
