@@ -1,6 +1,6 @@
-# Focus
+# Focus - Firefox extension
 
-**Focuses search field on any site with pressing the slash key**
+**Focus search field on any site with pressing the slash key**
 
 ## What it does
 
